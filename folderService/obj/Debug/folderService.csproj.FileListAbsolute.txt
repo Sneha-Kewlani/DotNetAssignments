@@ -1,0 +1,26 @@
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe.config
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\bin\Debug\folderService.pdb
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\obj\Debug\folderService.csprojResolveAssemblyReference.cache
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\obj\Debug\folderService.ProjectInstaller.resources
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\obj\Debug\folderService.Service1.resources
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\obj\Debug\folderService.csproj.GenerateResource.Cache
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\obj\Debug\folderService.exe
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\obj\Debug\folderService.pdb
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\bin\Debug\folderService.exe.manifest
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\bin\Debug\folderService.application
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\obj\Debug\folderService.exe.manifest
+c:\users\kewlani_s\documents\visual studio 2015\Projects\folderService\folderService\obj\Debug\folderService.application
+D:\DotNetRepository\folderService\folderService\bin\Debug\folderService.exe.config
+D:\DotNetRepository\folderService\folderService\obj\Debug\folderService.exe
+D:\DotNetRepository\folderService\folderService\obj\Debug\folderService.pdb
+D:\DotNetRepository\folderService\folderService\bin\Debug\folderService.exe.manifest
+D:\DotNetRepository\folderService\folderService\bin\Debug\folderService.application
+D:\DotNetRepository\folderService\folderService\bin\Debug\folderService.exe
+D:\DotNetRepository\folderService\folderService\bin\Debug\folderService.pdb
+D:\DotNetRepository\folderService\folderService\obj\Debug\folderService.csprojResolveAssemblyReference.cache
+D:\DotNetRepository\folderService\folderService\obj\Debug\folderService.ProjectInstaller.resources
+D:\DotNetRepository\folderService\folderService\obj\Debug\folderService.Service1.resources
+D:\DotNetRepository\folderService\folderService\obj\Debug\folderService.csproj.GenerateResource.Cache
+D:\DotNetRepository\folderService\folderService\obj\Debug\folderService.exe.manifest
+D:\DotNetRepository\folderService\folderService\obj\Debug\folderService.application
